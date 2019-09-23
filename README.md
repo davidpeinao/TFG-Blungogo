@@ -1,5 +1,5 @@
 # TFG-Blungogo
-Android app to track physical activities and performance
+Android app to track physical activities and performance.
 
 This application is the final project of my CS degree. It has been developed with Flutter, using Firebase Firestore and Firebase Authentication.
 
