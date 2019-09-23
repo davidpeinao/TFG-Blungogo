@@ -3,6 +3,11 @@ Android app to track physical activities and performance
 
 This application is the final project of my CS degree. It has been developed with Flutter, using Firebase Firestore and Firebase Authentication.
 
+![](image4.png)
+![](image2.png)
+![](image3.png)
+
+
 During the user's activities, data will be gathered from the GPS of the device to be processed and shown to the user through clear and 
 intuitive interfaces. These activities can be visualized in detail, showing the user some metrics (total time, total distance, average speed...)
 and displaying a map view of the path followed during the activity. 
